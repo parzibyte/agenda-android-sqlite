@@ -41,8 +41,6 @@ public class ActivityListar extends AppCompatActivity {
 
 
         do {
-            // El 0 es el número de la columna, como seleccionamos
-            // nombre, edad,id entonces el nombre es 0, edad 1 e id es 2
             String nombre = cursor.getString(cursor.getColumnIndex(Utilerias.CAMPO_NOMBRE));
             String telefono = cursor.getString(cursor.getColumnIndex(Utilerias.CAMPO_TELEFONO));
             int id = cursor.getInt(cursor.getColumnIndex(Utilerias.CAMPO_ID));
