@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="consultar">Consultar</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string name="identificador">Identificador</string>
+    <string name="nombre">Nombre</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="guardar">Guardar</string>
+    <string name="id">Id</string>
+    <string name="buscar">Buscar</string>
+</resources>
